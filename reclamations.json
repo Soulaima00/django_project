@@ -1,0 +1,34 @@
+[
+    {
+        "id": 3,
+        "author_id": 1,
+        "title": "Broken Air Conditioner",
+        "text": "The air conditioner in the office has been malfunctioning for the past two days. It is not cooling properly, and the temperature in the room has become unbearable. I request an immediate repair or replacement.",
+        "created_date": "2024-11-20 17:54:33",
+        "published_date": "2024-11-20 17:54:33"
+    },
+    {
+        "id": 5,
+        "author_id": 1,
+        "title": "Late Delivery of Package",
+        "text": "I placed an order for a package two weeks ago, and it still has not arrived. The estimated delivery date was missed, and there has been no communication from the delivery company regarding the delay. I request an update on the status of my order.",
+        "created_date": "2024-11-20 17:58:37",
+        "published_date": "2024-11-20 17:58:37"
+    },
+    {
+        "id": 6,
+        "author_id": 1,
+        "title": "Faulty Internet Connection",
+        "text": "For the past week, my internet connection has been unstable, frequently disconnecting. I have checked all cables and rebooted the router multiple times, but the problem persists. Please send a technician to resolve this issue.",
+        "created_date": "2024-11-20 19:49:13",
+        "published_date": "2024-11-20 19:49:13"
+    },
+    {
+        "id": 31,
+        "author_id": 1,
+        "title": "Incorrect Billing",
+        "text": "I noticed that my latest bill has a charge for a service I did not use. I request an explanation for this charge and a correction if it was applied in error.",
+        "created_date": "2024-11-21 12:13:00",
+        "published_date": "2024-11-21 12:13:00"
+    }
+]
